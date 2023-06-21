@@ -12,6 +12,7 @@ body {
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
+    text-decoration: none;
 }
 .infoheader {
     color: hsl(218, 44%, 22%);
