@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I wish to be able to integrate the desktop & mobile designs in the same code and deploy both of them depending on the width of the device
+I wish to be able to integrate the desktop & mobile designs in the same code and deploy both of them depending on the size of the device
 
 ### Useful resources
 
