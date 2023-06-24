@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -42,6 +41,6 @@ I wish to be able to integrate the desktop & mobile designs in the same code and
 
 ## Author
 
-- GitHub - [@Ebenezer404](https://www.github.com/Ebenezer-Raphael)
-- Frontend Mentor - [@Ebenezer404](https://www.frontendmentor.io/profile/Ebenezer-Raphael)
+- GitHub - [@Ebenezer-Raphael](https://www.github.com/Ebenezer-Raphael)
+- Frontend Mentor - [@Ebenezer-Raphael](https://www.frontendmentor.io/profile/Ebenezer-Raphael)
 - Twitter - [@EbenezerRaphae1](https://www.twitter.com/EbenezerRaphae1)
