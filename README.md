@@ -43,4 +43,4 @@ I wish to be able to integrate the desktop & mobile designs in the same code and
 
 - GitHub - [@Ebenezer-Raphael](https://www.github.com/Ebenezer-Raphael)
 - Frontend Mentor - [@Ebenezer-Raphael](https://www.frontendmentor.io/profile/Ebenezer-Raphael)
-- Twitter - [@EbenezerRaphae1](https://www.twitter.com/EbenezerRaphae1)
+- Twitter - [@EbenezerRaph](https://www.twitter.com/EbenezerRaph)
