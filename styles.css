@@ -7,25 +7,25 @@ body {
     font-family: "Outfit";
 }
 .attribution {
-    font-size: 11px;
+    font-size: 13px;
     text-align: center;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
     text-decoration: none;
 }
-.infoheader {
+.info-header {
     color: hsl(218, 44%, 22%);
     font-weight: 800;
     font-size: 20px;
     margin-bottom: 20px;
 }
-.infocontent {
+.info-content {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
 }
-.qrcode {
+.qr-code {
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
     width: 288px;
