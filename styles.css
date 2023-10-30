@@ -1,11 +1,3 @@
-@font-face {
-    font-family: 'Outfit';
-    src: url(fonts/Outfit.ttf);
-}
-body {
-    background-color: hsl(212, 45%, 89%);
-    font-family: "Outfit";
-}
 .attribution {
     font-size: 13px;
     text-align: center;
@@ -14,9 +6,34 @@ body {
     color: hsl(228, 45%, 44%);
     text-decoration: none;
 }
+@font-face {
+    font-family: "Outfit";
+    src: url('fonts/Outfit.ttf');
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit";
+}
+.qr-code {
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+    width: 318px;
+    height: 480px;
+    margin: 20% auto 5px;
+  					padding: 15px;
+  					box-sizing: border-box;
+}
+img {
+    border-radius: 10px;
+}
+.info {
+    margin: 20px auto;
+    width: 250px;
+    text-align: center;
+}
 .info-header {
     color: hsl(218, 44%, 22%);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 20px;
     margin-bottom: 20px;
 }
@@ -24,20 +41,4 @@ body {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
-}
-.qr-code {
-    border-radius: 20px;
-    background-color: hsl(0, 0%, 100%);
-    width: 288px;
-    height: 465px;
-    padding: 15px;
-    margin: 100px auto 10px;
-}
-.info {
-    margin: 20px auto;
-    width: 250px;
-    text-align: center;
-}
-img {
-    border-radius: 10px;
 }
