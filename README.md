@@ -38,4 +38,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- Twitter - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
+- X - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
