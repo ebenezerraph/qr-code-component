@@ -33,12 +33,18 @@ img {
 }
 .info-header {
     color: hsl(218, 44%, 22%);
-    font-weight: 700;
-    font-size: 20px;
+    font-weight: 300;
+    font-size: 17px;
     margin-bottom: 20px;
 }
 .info-content {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
+}
+.info-header-span{
+    color: greenyellow;
+    font-size: 700;
+    font-size: 20px;
+    letter-spacing: 1px;
 }
