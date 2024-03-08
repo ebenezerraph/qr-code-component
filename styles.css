@@ -24,7 +24,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     width: 318px;
     height: 480px;
-    margin-bottom: 5px;
+    margin: 0px auto 5px;
   	padding: 15px;
   	box-sizing: border-box;
 }
