@@ -13,13 +13,18 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
 }
 .qr-code {
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
     width: 318px;
     height: 480px;
-    margin: 10% auto 5px;
+    margin-bottom: 5px;
   	padding: 15px;
   	box-sizing: border-box;
 }
