@@ -1,11 +1,3 @@
-.attribution {
-    font-size: 13px;
-    text-align: center;
-}
-.attribution a {
-    color: hsl(228, 45%, 44%);
-    text-decoration: none;
-}
 @font-face {
     font-family: "Outfit";
     src: url('fonts/Outfit.ttf');
@@ -46,4 +38,12 @@ img {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
+}
+.attribution {
+    font-size: 13px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
 }
