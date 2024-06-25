@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](images/qr-code-component.jpg)
+![screenshot]()
 
 ### Links
 
@@ -32,10 +32,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [HTML & CSS: Design and Build Web Sites - Book by Jon Duckett](https://www.htmlandcssbook.com/) - This helped me to address minor issues in my code and I will use it going forward.
+- [HTML & CSS: Design and Build Web Sites - Book by Jon Duckett](https://www.htmlandcssbook.com/) - This helped me address minor issues in my code and use it going forward.
 
 ## Author
 
-- GitHub - [@ebenezerraph](https://www.github.com/ebenezerraph)
 - Frontend Mentor - [@ebenezerraph](https://www.frontendmentor.io/profile/ebenezerraph)
-- X - [@ebenezerraph](https://www.twitter.com/ebenezerraph)
+- X - [@ebenezerraph](https://www.x.com/ebenezerraph)
